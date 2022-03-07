@@ -1,5 +1,5 @@
 import requests
-from pyfiglet import Figlet
+from pyfiglet import Figlet ## Ббиблиотека для создания красивого превью перед выводом текста
 import folium
 
 
